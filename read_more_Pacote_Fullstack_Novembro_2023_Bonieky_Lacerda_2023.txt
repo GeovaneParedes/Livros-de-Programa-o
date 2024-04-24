@@ -1,0 +1,41 @@
+Pack B7Web (Atualizado 11-2023) - Rip completo do site
+
+Aprenda a Programar Do ZERO
+
+Conheça um pouco alguns dos recursos e ferramentas disponíveis pra você ao se tornar aluno. E são só algumas.
+
+Acesso aos módulos de forma fácil
+
+Nessa tela você terá acesso direto a todos os nossos módulos e suas respectivas aulas. É um sistema passo-a-passo e muito fácil de utilizar, em que você vai aprender sem ter nenhuma dificuldade e complicação que todos esses outros cursos tem. E nós estamos constantemente adicionando novas aulas, sem nenhum custo adicional.
+
+Exercícios e desafios para fixação (Funcional no rip, basta abrir o .html)
+
+Nós sabemos que apenas assistir uma aula não é o suficiente, por isso temos esse grande diferencial, que são vários e vários exercícios entre as aulas.
+
+Dessa forma conseguimos garantir que você está de fato aprendendo e fixando seus conhecimentos. A prática é o que diferencia um aprendiz de um programador.
+
+Tecnologias abordadas no curso
+
+HTML e CSS: Você vai aprender desde os primeiros passos da web, como estruturar suas páginas para sites e sistemas com as técnicas de responsividade e acessibilidade mais modernas.
+
+Javascript: Manipulação de elementos na interface é um dos itens mais importantes, por isso te ensinamos tudo sobre Javascript e depois utilizamos o Typescript para ir um passo além.
+
+Git/Github: Versionamento de código é uma habilidade essencial, então além de te ensinar tudo na prática, vamos te ensinar como as empresas trabalham com isso.
+
+TailwindCSS: Estilização de sistemas e sites de forma profissional, usando a biblioteca mais atualizada e moderna do mercado, em conjunto com várias tecnologias.
+
+React (com Typescript): Uma tecnologia super requisitada pelas empresas para criação de interfaces modernas e utilizando técnicas de gigantes da tecnologia, vamos aprender React do básico ao avançado.
+
+NextJS: O framework React mais utilizado, mais moderno e com maior quantidade de recursos incríveis para seus sistemas. É um conhecimento essencial e vamos te passar tudo.
+
+Banco de Dados: Você vai aprender como arquitetar perfeitamente um banco de dados para armazenar qualquer tipo de informação, tanto em SQL quanto em MongoDB.
+
+Node (com Typescript): Com Node vamos aprender a criar um backend moderno, apis, autenticação, manipulação de imagens e vários outros assuntos importantíssimos em desenvolvimento de sistemas.
+
+AdonisJS: Você vai aprender o framework Node mais integrado do mercado, que te possibilita criar sistemas complexos com muita produtividade e segurança.
+
+PHP: Uma das linguagens mais usadas no mercado, vamos aprender tudo, desde os primeiros passos, com orientação a objetos e boas práticas, com as versões mais recentes.
+
+Laravel: Este é o framework PHP mais requisitado do mercado, item obrigatório para todo programador PHP. Te ensinamos tudo, com muitos projetos práticos!
+
+React Native: Vamos criar aplicativos nativos tanto para Android quanto para iOS, com manipulação de câmera, localização e técnicas de animação usadas pelos melhores.
